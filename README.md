@@ -1,4 +1,6 @@
 # Priti Alapure — Portfolio
+live = https://pritialapure.github.io/mineportfolio/
+
 
 A React + Vite + Tailwind CSS + Framer Motion portfolio, built from the
 attached design specification.
